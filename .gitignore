@@ -1,0 +1,4 @@
+docker/mysql/data/
+.env
+bitrix/managed_cache
+bitrix/cache
